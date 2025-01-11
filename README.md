@@ -47,7 +47,7 @@ When I'm not coding, I enjoy betting at **SNAI**.
 ---
 
 ### 💼 Main Projects
-
+- **SFTP Manager** – A Python-based SFTP client for managing files and directories on SFTP servers with support for changing directories, listing files, and uploading files (https://github.com/DarkAngelOf/Caricamento-SFT-A-Server).
 - **Tic-Tac-Toe Online Game** – An online tic-tac-toe game built with **Socket.IO** (SOON ON GITHUB).
 - **Discord Amazon Tracker Bot** – A bot to track Amazon prices and send notifications (SOON ON GITHUB).
 - **Web Scraper for Statistical Data** – A web scraper to gather data from websites using **Python** (SOON ON GITHUB).
